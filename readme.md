@@ -7,12 +7,7 @@
 
 ### Stack
 
-- HTML (BEM)
-- CSS (Bulma)
-- JS
 - Typescript
-- React
-- ReactDOM
 
 ### Tools
 
